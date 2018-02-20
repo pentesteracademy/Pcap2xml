@@ -19,12 +19,12 @@ The tool was presented in Packet Capture Village, DEF CON 23. Presentation video
 #######
 Author
 #######
-Vivek Ramachandran, CEO and Chief Trainer, Pentester Academy, Hacker Arsenal and SecurityTube
+Vivek Ramachandran, CEO and Chief Trainer, Pentester Academy, Hacker Arsenal and SecurityTube (`@SecurityTube <http://twitter.com/SecurityTube>`_)
 
 #############
 Contributors
 #############
-Ashish Bhangale, Sr. Technical Engineer, Pentester Academy
+Ashish Bhangale, Sr. Technical Engineer, Pentester Academy (`@Hax0rGuy <http://twitter.com/Hax0rGuy>`_)
 
 #############
 Installation
