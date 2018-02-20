@@ -12,7 +12,7 @@ Benefits of converting PCAP to XML and SQLite format:
  - Possible to run complex logical queries. E.g.: Detecting Deauth attack or Evil twin  
  - Easy to summerise the results
  - Easy to store, index and analyze large PCAP
- - Sharind data with other application using XML
+ - Sharing data with other application
 
 The tool was presented in Packet Capture Village, DEF CON 23. Presentation video link: https://www.youtube.com/watch?v=4yHko5upDSQ
  
