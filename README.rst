@@ -17,14 +17,15 @@ Benefits of converting PCAP to XML and SQLite format:
 The tool was presented in Packet Capture Village, DEF CON 23. Presentation video link: https://www.youtube.com/watch?v=4yHko5upDSQ
  
 #######
-Author
+Architect
 #######
-Vivek Ramachandran, CEO and Chief Trainer, Pentester Academy, Hacker Arsenal and SecurityTube (`@SecurityTube <http://twitter.com/SecurityTube>`_)
+Vivek Ramachandran, Founder, Pentester Academy, Hacker Arsenal and SecurityTube (`@SecurityTube <http://twitter.com/SecurityTube>`_)
 
 #############
-Contributors
+Team
 #############
-Ashish Bhangale, Sr. Technical Engineer, Pentester Academy (`@Hax0rGuy <http://twitter.com/Hax0rGuy>`_)
+Guillermo, Programmer
+Ashish Bhangale, Tester, Sr. Technical Engineer, Pentester Academy (`@Hax0rGuy <http://twitter.com/Hax0rGuy>`_)
 
 #############
 Installation
