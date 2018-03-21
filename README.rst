@@ -15,6 +15,8 @@ Benefits of converting PCAP to XML and SQLite format:
  - Sharing data with other application
 
 The tool was presented in Packet Capture Village, DEF CON 23. Presentation video link: https://www.youtube.com/watch?v=4yHko5upDSQ
+
+.. image:: https://user-images.githubusercontent.com/743886/37736760-bfb6f6ae-2d77-11e8-8b4e-ad0ea4f94017.png
  
 #######
 Architect
